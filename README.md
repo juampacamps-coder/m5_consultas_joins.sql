@@ -1,1 +1,1 @@
-# m5_consultas_joins.sql
+Se ha realizado una entrega con los JOINS (combinando tablas) y UNION (diferentes conjuntos de ventas) aprendidos en clase, que permitió poder utilizarlos de manera clara y visible. Mediante ellos se han podido analizar el comportamiento de las ventas, la recurrencia de los clientes, productos con mayor facturacion y transformar datos para futuras mejores decisiones.
